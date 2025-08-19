@@ -1,4 +1,16 @@
-<h2 align="center">Hi there 👋! <br> My name is Zaybe <br> I'm a software developer from Kenya</h2>
+<div align="center"><picture>
+
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=5000&lines=Hi+There!+👋;I'm+zaybe+maliq+:);A+passionate+software+developer+from+Kenya+🇰🇪" />
+  </h1>
+</div>
+<div align ="center">
+  🚀 I'm currently honing my skills at Moringa School with a focus on full-stack web development. 
+</div>
+<div align ="center">
+  💡 I’m passionate about building clean, functional applications that solve real-world problems. 
+
+</div>
 
 ###
 
