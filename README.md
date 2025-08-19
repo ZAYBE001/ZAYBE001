@@ -46,7 +46,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ZAYBE001/ZAYBE001/output/snake.svg" alt="Snake animation" />
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BoruIsakoJ/BoruIsakoJ/output/pacman-contribution-graph-dark.svg">
@@ -56,5 +56,26 @@
 
 
 </div>
+
+## 🔧 Projects & Interests
+
+I’ve built and contributed to several projects, including:
+- 🛒 An e-commerce platform for uniform distribution (flask + Bootstrap)
+- 🚌 A bus booking system.
+
+I'm especially excited about building scalable web apps, exploring DevOps workflows, and learning more .
+
+---
+
+## 🚀 Goals
+- Build and contribute to open-source projects
+- Deepen my expertise in backend development
+
+---
+
+## 📫 Let's Connect!
+I'm always open to opportunities, collaboration, and tech conversations. Feel free to reach out via:
+
+- 📧 Email: [zaybemaliq@gmail.com](zaybemaliq@gmail.com)
 
 ###
