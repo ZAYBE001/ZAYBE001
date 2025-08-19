@@ -5,7 +5,7 @@
   </h1>
 </div>
 <div align ="center">
-  🚀 I'm currently honing my skills at Moringa School with a focus on full-stack web development. 
+  🚀 I'm currently shaping my skills at Moringa School with a focus on full-stack web development. 
 </div>
 <div align ="center">
   💡 I’m passionate about building clean, functional applications that solve real-world problems. 
